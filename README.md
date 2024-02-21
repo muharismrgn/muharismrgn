@@ -5,7 +5,7 @@
 
 I'm Muhamad Aris Margono, Passionate about working with data, I'm starting a career shift to become a data scientist/data analyst. I've been hands-on with projects, using tools such as Python, MySQL, and Tableau to dive into data and develop machine learning applications 
 - 🌱 I’m currently delving deeper into advanced data analytics techniques and exploring the latest trends in data science.
-- :handshake: Connect with me through [LinkedIn] (https://www.linkedin.com/in/muharismrgn/)
+- :handshake: Connect with me through [LinkedIn](https://www.linkedin.com/in/muharismrgn/)
 - :newspaper: Discover my insights and projects on [Medium](https://medium.com/@muhammadaris10)
 
 ## 🔭 Projects
