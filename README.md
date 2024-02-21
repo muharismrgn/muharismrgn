@@ -33,6 +33,7 @@ I'm Muhamad Aris Margono, Passionate about working with data, I'm starting a car
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,git,github)](https://skillicons.dev)
 
 ## 📈 Stats
