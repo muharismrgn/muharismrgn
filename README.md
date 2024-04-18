@@ -10,6 +10,8 @@ I'm Muhamad Aris Margono, Passionate about working with data, I'm starting a car
 
 ## 🔭 Projects
 
+- **[Lampung Script Recognition](https://github.com/muharismrgn/Klasifikasi-Aksara-Lampung/):** The Lampung Script Recognition project was designed to preserve the cultural heritage of the indigenous Lampung script of Indonesia through advanced machine learning. By employing transfer learning techniques with pretrained models, the project significantly improved the recognition and classification of the script across various styles. The approach was validated using metrics such as accuracy, precision, recall, and F1-score, with results indicating substantial improvements in script recognition, facilitating cultural preservation efforts.
+
 - **[Olist E-Commerce Customer Segmentation](https://github.com/muharismrgn/Olist-E-Commerce-Customer-Segmentation):** This project focuses on optimizing marketing budget allocation and customer acquisition in the competitive e-commerce sector. By employing RFM analysis, it segments customers according to their shopping behaviors, enabling more precise marketing strategies, increasing sales, and fostering loyalty with a data-driven and machine learning approach.
 
 - **[Bike Sharing Demand Prediction](https://github.com/muharismrgn/Bike-Sharing-Demand-Prediction):** Aimed at enhancing bike-sharing operations, this project predicts rental demand considering various factors such as weather, day, and time. Utilizing machine learning techniques, specifically regression, the model is trained on historical data. The Catboost Regressor model is optimized to achieve a minimal MAE and a high R2 score, demonstrating its effectiveness in forecasting demand.
