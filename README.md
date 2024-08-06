@@ -20,8 +20,6 @@ I'm Muhamad Aris Margono, Passionate about working with data, I'm starting a car
 
 - **[Hospital Management System](https://github.com/muharismrgn/Hospital-Management-System ):** Developed in response to the data management and scheduling challenges in hospitals, this Python-based CRUD system improves communication and coordination among patients, doctors, and staff. It addresses common issues such as queueing problems, scheduling conflicts, and misinformation.
 
-- **[Lampung Script Recognition]():** This study leverages transfer learning with pre-trained models for recognizing Lampung script, contributing to cultural preservation. It involves preprocessing, classification, and feature extraction using pre-trained models, with a focus on improving recognition accuracy through various performance metrics.
-
 - **[Fire Forest Detection](https://bit.ly/deteksi-kebakaran-hutan):** This research explores fire detection strategies for forest fire management using digital imagery. Employing SVM classification and segmentation techniques, it achieves high accuracy, precision, recall, and F1 scores, demonstrating effective fire location identification through IoU evaluation measures.
 
 ## 🛠️Skills
