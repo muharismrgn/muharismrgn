@@ -31,5 +31,3 @@ I'm Muhamad Aris Margono, Passionate about working with data, I'm starting a car
 
 ## 📈 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=muharismrgn&theme=dracula&border_radius=10)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
